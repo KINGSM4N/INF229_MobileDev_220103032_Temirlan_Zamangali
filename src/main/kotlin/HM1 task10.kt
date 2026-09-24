@@ -7,4 +7,4 @@ fun main() {
 
 fun weather(name: String, minTemp: Int, maxTemp: Int, rain: Int) {
     println("City: $name\nLow temperature: $minTemp, High temperature: $maxTemp\nChance of rain: $rain%\n")
-}
+}//this task was interesting
