@@ -11,8 +11,6 @@
 //    tempToday("Monday", 23)
 //}
 //
-//
-//
 //fun tempToday(day: String, temp: Int){
 //    println("Today is $day and the temperature is $temp")
 //}
