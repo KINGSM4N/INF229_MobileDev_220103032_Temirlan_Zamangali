@@ -31,4 +31,4 @@ fun add(firstNumber: Int, secondNumber: Int): Int {
 
 fun subtract(firstNumber: Int, secondNumber: Int): Int {
     return firstNumber + secondNumber
-}
+}//i added add() function as a comment and did the same thing to substract
