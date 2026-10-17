@@ -8,7 +8,10 @@ lifecycleRuntimeKtx = "2.11.0"
 activityCompose = "1.13.0"
 kotlin = "2.2.10"
 composeBom = "2026.02.01"
+<<<<<<< HEAD
 remoteCreationCompose = "1.0.0-alpha21"
+=======
+>>>>>>> d3623395ee84e87b42e08ea4a338ea87ec1f5d40
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -25,7 +28,10 @@ androidx-compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "u
 androidx-compose-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
 androidx-compose-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
 androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+<<<<<<< HEAD
 androidx-compose-remote-creation-compose = { group = "androidx.compose.remote", name = "remote-creation-compose", version.ref = "remoteCreationCompose" }
+=======
+>>>>>>> d3623395ee84e87b42e08ea4a338ea87ec1f5d40
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

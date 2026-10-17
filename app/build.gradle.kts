@@ -4,13 +4,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.composearticle"
+=======
+    namespace = "com.example.happybirthday"
+>>>>>>> d3623395ee84e87b42e08ea4a338ea87ec1f5d40
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.composearticle"
+=======
+        applicationId = "com.example.happybirthday"
+>>>>>>> d3623395ee84e87b42e08ea4a338ea87ec1f5d40
         minSdk = 24
         targetSdk = 37
         versionCode = 1
@@ -40,7 +48,10 @@ dependencies {
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
+<<<<<<< HEAD
     implementation(libs.androidx.compose.remote.creation.compose)
+=======
+>>>>>>> d3623395ee84e87b42e08ea4a338ea87ec1f5d40
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)
     implementation(libs.androidx.compose.ui.tooling.preview)
